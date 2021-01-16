@@ -1,0 +1,20 @@
+header {
+	position: absolute;
+	top:12px;
+	right:30px;
+}
+
+header a:link, a:visited, a:active {
+    color: #2a2a2a;
+    font-family: arial, sans-serif;
+    font-size:12px;
+    text-decoration:none;
+	margin-right:5px;
+	margin-left:5px;
+	position:relative;
+	top:-10px;
+}
+
+header a:hover {
+	text-decoration:underline;
+}
